@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "4799",
+      "username": "hema",
+      "password": "12345"
+    },
+    {
+      "id": "e4d5",
+      "username": "lpma",
+      "password": "12345"
+    }
+  ],
+  "items": [
+    {
+      "id": "8f2a",
+      "name": "product1"
+    }
+  ]
+}
